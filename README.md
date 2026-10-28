@@ -1,1 +1,1 @@
-link :- https://devendrasinghkt.github.io/ecommerce-website-clone/
+link :- https://devendrasinghkt.github.io/responsive-myntra-clone/
